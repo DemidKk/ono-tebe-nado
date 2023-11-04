@@ -1,3 +1,3 @@
 # ono-tebe-nado
 Проект "Оно тебе надо"
-gh repo clone DemidKk/ono-tebe-nado
+https://github.com/DemidKk/ono-tebe-nado.git
